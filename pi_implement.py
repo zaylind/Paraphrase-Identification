@@ -3,8 +3,6 @@
 @author: yidong zhang
 
 @mail: yidong.zh@foxmail.com
-
-@envir: Anaconda2
 '''
 
 from numpy import *
